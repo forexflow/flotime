@@ -1,0 +1,2 @@
+.session(sqlite3 file) from entities table he has to pull ID of source chat, and add to variable 'from_to' as others, format: source: [target1,target2,...]
+
